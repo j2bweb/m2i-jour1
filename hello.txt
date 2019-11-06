@@ -2,4 +2,7 @@ hello world !
 
 Ligne 2
 
-Edition github *************
+ajout d'une ligne
+encore une autre
+
+et une dernière.
